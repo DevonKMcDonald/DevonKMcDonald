@@ -2,7 +2,7 @@
 
 I am a motivated learner with a keen interest in technology, particularly in cybersecurity. Currently advancing my skills in this field, I aspire to carve a career path within the cybersecurity/IT industry, driven by a passion for exploring new innovations and enhancing digital security.
 
-![DevonKMcDonald's Stats](https://github-readme-stats.vercel.app/api?username+DevonKMcDonald&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![DevonKMcDonald's Stats](https://github-readme-stats.vercel.app/api?username=DevonKMcDonald&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=bash,linux,powershell,py,windows)](https://skillicons.dev)
