@@ -4,7 +4,7 @@ I am a motivated learner with a keen interest in technology, particularly in cyb
 
 ![DevonKMcDonald's Stats](https://github-readme-stats.vercel.app/api?username=DevonKMcDonald&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-## Tech Stack
+## Skills
 [![My Skills](https://skillicons.dev/icons?i=bash,linux,powershell,py,windows)](https://skillicons.dev)
 
 <!--
